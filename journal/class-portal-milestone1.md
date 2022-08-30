@@ -9,5 +9,7 @@ My design has a menu button at the top corner for easy access to switch between 
 Color and font were important to me, and I tried to pick both colors and fonts that would be nice to look at without being too flashy or aggressive. I used a pantone palette to choose the color and Helvetica thinned out with some extra kerning for the font, but these both might change over the course of the semester. 
 
 ![My Image](classPortal.jpg)
+
 ![My Image](pageExample.jpg)
+
 ![My Image](mobileDisplay.jpg)
