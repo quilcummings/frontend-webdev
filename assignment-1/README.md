@@ -2,4 +2,5 @@ Link to Assignment 1, also can be found on class portal under assignment 1 - htt
 
 Some documentation I looked at while making this:
 https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+
 https://api.jquery.com/
