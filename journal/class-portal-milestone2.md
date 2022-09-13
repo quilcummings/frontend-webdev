@@ -12,7 +12,7 @@ I ended up changing a lot of the colors from my original plan, but I kept the ba
 
 ![My Image](class-portal-smaller.png)
 
-![My Image](class-portal-smallest.jpg)
+![My Image](class-portal-smallest.png)
 
 I tested this on Chrome on Windows and Mac, and again on Safari, and all seemed to work consistently.
 
