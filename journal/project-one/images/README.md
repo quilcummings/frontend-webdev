@@ -1,1 +1,1 @@
-# Images for project one!
+# Images for project one
