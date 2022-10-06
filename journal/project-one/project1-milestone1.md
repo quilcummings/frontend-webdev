@@ -1,4 +1,4 @@
-# Project
+# Project One
 
 ### Milestone One
 
@@ -12,6 +12,6 @@ I will likely refer to the p5.js documentation a lot in order to make the animat
 https://p5js.org/reference/
 https://www.fishbase.se/search.php
 
-In order to make this page responsive to different screen sizes, I’ll have the objects being drawn shrink along with the web page, most likely by making their sizes a fraction of the screen width. As another stretch goal, it would be cool to have it be locked to horizontal viewing on cell phones
+In order to make this page responsive to different screen sizes, I’ll have the objects being drawn shrink along with the web page, most likely by making their sizes a fraction of the screen width. As another stretch goal, it would be cool to have it be locked to horizontal viewing on cell phones.
 
 ![My Image](images/webdev-project1-milestone1.jpg)
