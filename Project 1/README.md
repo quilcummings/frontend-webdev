@@ -3,6 +3,7 @@ Link to Project 1, also can be found on class portal under Projects - https://qu
 Some documentation I looked at while making this:
 
 Images -
+
 https://www.google.com/imgres?imgurl=https%3A%2F%2Feasydrawingart.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fhow-to-draw-a-stringray.jpg&imgrefurl=https%3A%2F%2Feasydrawingart.com%2Fhow-to-draw-a-stingray%2F&tbnid=-yVoIzAK4CxCIM&vet=12ahUKEwjb4Yy0r976AhWFMlMKHT6ABssQMygDegUIARDyAg..i&docid=_SlAVJeu6k_BnM&w=800&h=577&q=sting%20ray%20drawing&ved=2ahUKEwjb4Yy0r976AhWFMlMKHT6ABssQMygDegUIARDyAg
 
 https://iheartcraftythings.com/wp-content/uploads/2021/04/Sea-Turtle-DRAWING-%E2%80%93-STEP-10.jpg
@@ -46,6 +47,7 @@ https://media.wired.com/photos/5b50d6e7a1b2370b628ba550/master/w_1600%2Cc_limit/
 
 
 Info -
+
 https://a-z-animals.com/animals/jellyfish/
 
 https://www.worldwildlife.org/species/tuna
