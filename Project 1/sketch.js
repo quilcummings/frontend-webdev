@@ -315,7 +315,7 @@ function draw() {
   }
   if (bools4[1]==true)
   {
-    text("Mariana Hadal Snailfish (Pseudoliparis Swirei)\nFound in the Mariana Trench, these fish are \nlight in color and small in size.", mouseX, mouseY);
+    text("Mariana Snailfish (Pseudoliparis Swirei)\nFound in the Mariana Trench, these fish are \nlight in color and small in size.", mouseX, mouseY);
   }
   if (bools4[2]==true)
   {
