@@ -9,6 +9,7 @@ Overall, I’m happy with it. It was definitely a learning experience, and if I 
 
 https://quilcummings.github.io/class-portal-main/Project1/index.html
 
+
 ![My Image](images/screenshot1.jpg)
 
 ![My Image](images/screenshot2.jpg)
