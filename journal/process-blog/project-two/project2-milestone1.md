@@ -12,6 +12,8 @@ It includes a lot of additional information too, such as predicted precipitation
 I’ve never worked with three.js so I imagine I’ll run into a lot of roadblocks, but I think at the very least I’ll be able to get a globe to react to the user’s input and display data for the input year. Ideally, I’d like to display more than just the temperature. It would be cool to have air quality and humidity data as well, or possibly even the shift in permafrost and ocean levels, although that might be too ambitious.
 I’m not sure if I would need to include a library to deal with maps, or if I could just map the sphere based on latitude and longitude, but I included some options for mapping libraries in case I need them.
 
+To make this compatible with different sized webpages, I'll ideally have the globe's size be set to a fraction of the screen size.
+
 
 
 Sources — 
