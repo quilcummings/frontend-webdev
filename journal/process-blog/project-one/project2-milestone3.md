@@ -1,3 +1,6 @@
+# Project One
+
+### Milestone Three
 
 This project was really fun to work on, and creatively I think I achieved what I set out to do. I did end up sacrificing almost all of my stretch goals, but despite having no real animations or time to draw out the objects I was still mostly happy with how it turned out.
   
