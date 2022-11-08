@@ -2,7 +2,7 @@
 
 ### Milestone Two
 
-I’m not quite as far as I’d like to be on this. I was fighting with the textures for awhile, but I currently have a globe that is textured, as well as a textured background. The sphere and camera both react to the mouse position, and the globe rotates on its own. 
+I’m not quite as far as I’d like to be on this. The code in this folder is my progress so far, but I definitely still have a lot of work to do. I was fighting with the textures for awhile, but I currently have a globe that is textured, as well as a textured background. The sphere and camera both react to the mouse position, and the globe rotates on its own. 
 
 ![My Image](images/screenshot1.png)
 
