@@ -2,4 +2,4 @@
 
 ### Milestone Two
 
-![My Image](images/screenshot1.jpg)
+![My Image](images/screenshot1.png)
