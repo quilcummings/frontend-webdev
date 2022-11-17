@@ -8,7 +8,9 @@
 4 — Headings — Category headings
 5 — Row — A row for each movie
 
-![My Image](images/Untitled_Artwork 1.jpg)
+![My Image](images/Untitled_Artwork1.jpg)
+
+
 
 Hierarchy
 
