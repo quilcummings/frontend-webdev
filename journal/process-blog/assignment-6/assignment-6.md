@@ -1,10 +1,14 @@
 # Assignment 6
 
+![My Image](images/Untitled_Artwork.jpg)
+
 1 — Complete table — The entire set of components
 2 — User input — Search/Mark as watched
 3 — Data table — The table containing the data. Filterable based on user input.
 4 — Headings — Category headings
 5 — Row — A row for each movie
+
+![My Image](images/Untitled_Artwork 1.jpg)
 
 Hierarchy
 
