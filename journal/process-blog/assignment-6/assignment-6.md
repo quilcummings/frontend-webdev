@@ -1,6 +1,6 @@
 # Assignment 6
 
-![My Image](images/Untitled_Artwork.jpg)
+![My Image](images/image1.jpg)
 
 1 — Complete table — The entire set of components
 2 — User input — Search/Mark as watched
@@ -8,7 +8,7 @@
 4 — Headings — Category headings
 5 — Row — A row for each movie
 
-![My Image](images/Untitled_Artwork1.jpg)
+![My Image](images/image2.jpg)
 
 
 
