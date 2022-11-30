@@ -13,3 +13,5 @@ We haven't had a lot of time to work on this yet, so we are still mostly in the 
 
 
 The animation of the card flipping has been fun to work on, and once we get everything working I think it will look really good. There is definitely still a lot of work to do on this, especially with the basic UI and page layout, but overall I think most of our goals are still possible by the due date. There haven't been any huge roadblocks aside from time, so if all goes well we'll have something a lot more complete to show next week!
+
+Also, sorry for the delayed submission, when I checked last night it still said check back soon under the assignment description so I did not realize this was due today.
